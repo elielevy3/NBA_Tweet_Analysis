@@ -6,10 +6,10 @@ nltk.download('brown')
 nltk.download('punkt')
 
 # API keys that yous saved earlier
-api_key = "HZjXdUZ5rT8XKcdD9MSFLPBwI"
-api_secrets = "IqjvvICp4RJ9Rd8D79BGHk8du4xKO4qeC9nsfMOfTy9f6hSVg6"
-access_token = "1540946617955647491-BRvZXiViToEBsKbcnuu8o3OfzmS6XZ"
-access_secret = "0BPSkP6kK2RlagSR7Ye349OM1jQycErnEmgFUXdOgpNFL"
+api_key = ""
+api_secrets = ""
+access_token = ""
+access_secret = ""
 
 # Authenticate to Twitter
 auth = tweepy.OAuthHandler(api_key, api_secrets)
