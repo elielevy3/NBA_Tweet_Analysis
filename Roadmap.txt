@@ -1,0 +1,27 @@
+***************************** MODEL ******************************
+- quels traitement appliquer au tweet (stemming ? )
+- comment les vectorizer ? Universal sentence encoder ?
+- une fois vectorizé, quels models ? quels metrics ?
+- se documenter sur sentiment analysis
+
+
+**************************** DATA ENGINEERING *********************
+
+- Lire les tweets liés à certains hashtag en direct ? Quels hashtag ? "NBA", "Nba", "nba", "Basketball", "PlayoffNba"
+- comment filtrer les tweets en amont pour ne récuperer que ce qui est lié à la NBA ?
+- comment lire les tweets en streaming ? Se documenter sur le streaming
+- Comment deployer le modele pour qu'il tourne en temps réel et analyse les tweets en streaming
+
+
+
+********************************** IDEAS  *******************************
+- Quelles sont les mots les plus utilisés pour décrire positivement tels joueurs
+- Dans quelle région du monde un joueur est populaire ?
+- stocker tous les résultats intermédiaire sur une BDD orientée colonne
+
+
+
+
+************************************* DONE ***********************************
+- recuperer tweets historique pour un joueur donné
+- 
